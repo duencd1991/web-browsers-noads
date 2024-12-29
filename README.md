@@ -1,6 +1,6 @@
 # web_browser_app
 
-A new Flutter project.
+A new Flutter project v1.
 
 ## Getting Started
 
