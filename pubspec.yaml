@@ -38,6 +38,7 @@ dependencies:
   flutter_inappwebview: ^6.0.0 # Hỗ trợ kiểm soát nâng cao và chặn quảng cáo
   logger: ^2.5.0
   flutter_launcher_icons: "^0.14.2"
+  shared_preferences: ^2.3.4
 
 dev_dependencies:
   flutter_test:
